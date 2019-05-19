@@ -93,7 +93,7 @@ WSGI_APPLICATION = 'vehicle_hire.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'vehicle_db',
+        'NAME': 'vehicle_db_test',
         'HOST': '127.0.0.1',
         'PORT': '3306',
         'USER': 'adrenture',
